@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Tickets\Data\Repositories\" />
     <Folder Include="Tickets\AppServices\" />
-    <Folder Include="Tickets\Services\" />
   </ItemGroup>
 
 </Project>
